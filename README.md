@@ -31,5 +31,5 @@ The goal of this project is to demonstrate how retrieval-based techniques can be
 - **Sentence-Transformers**
 - **Google Gemini (LLM)**
 - **Hugging-Face**
-- **Enbeddings**
+- **Embeddings**
 - **Tokenization**
